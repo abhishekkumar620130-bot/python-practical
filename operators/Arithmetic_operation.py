@@ -43,4 +43,78 @@
 
 
 # 2. Take two integers and print subtraction result.
-num1 = int(input("Enter first integer:"))
+# num1 = int(input("Enter first integer:"))
+# num2 = int(input("Enter second interer:"))
+# sub = num1 - num2
+# print(sub)
+
+# num3 = int(input("Enter first integer:"))
+# num4 =int(input("Enter second integer:"))
+# mul =num3 * num4
+# print(mul)
+
+
+
+# 3. Take two floats and print multiplication result.
+
+# num1 = float(input("Enter first number:"))
+# num2 = float(input("enter second number:"))
+# mul = num1 * num2
+# print(mul)
+
+# 4. Take two numbers and print division result.
+
+# num1 = int(input("Enter first number:"))
+# num2 = int(input("Enter second number:"))
+# div = num1 / num2
+# print(div)
+
+
+# 5. Take two integers and print floor division result.
+# num1 = int(input("Enter first integer:"))
+# num2 = float(input("Enter second float:"))
+# div = num1 / num2
+# print(div)
+
+
+
+
+#  6. Take two integers and print remainder using %.
+
+# num1 = int(input("Enter first number:"))
+# num2 = int(input("Enter second number:"))
+# rem = num1 % num2
+# print(rem)
+
+# 7. Take a number and print its square using **.
+
+# num1 = int(input("Enter a number:"))
+# square = num1 ** 2
+# print(square)
+
+# num1 = float(input("Enter a number:"))
+# square = num1 ** 3
+# print(square)
+
+
+# 8. Take a number and print its cube.
+# num1 = int(input("Enter a number:"))
+# cube = num1 ** 3
+# print(cube)
+
+# 9. Take two numbers and calculate average.
+# 
+# num1 = int(input("Enter first number:"))
+# num2 = int(input("Enter second number:"))
+# average = (num1 + num2) /2
+# print(average)
+
+
+# num1 = int(input("Enter first number:"))
+# num2 = int(input("Enter second number:"))
+# num3 = int(input("Enter third number:"))
+# num4 = int(input("Enter fourth number:"))
+# average = (num1 + num2 +num3 + num4) / 4
+# print(average)
+
+# 10. Take length and width from user and calculate area.
