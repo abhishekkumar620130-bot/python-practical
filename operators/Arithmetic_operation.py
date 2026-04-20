@@ -118,3 +118,53 @@
 # print(average)
 
 # 10. Take length and width from user and calculate area.
+
+# length = int(input("Enter length:"))
+# width = int(input("Enter width:"))
+# area = length * width
+# print(area)
+
+
+
+# length = float(input("Enter length:"))
+# width = float(input("Enter widht:"))
+# area = length * width
+# print(area)
+
+
+# 11. Take radius and calculate area of circle (3.14 * r * r).
+ 
+# radius = float(input("Enter radius:"))
+# area = 3.14 * radius * radius 
+# print(area)
+
+# radius = float(input("Enter radius:"))
+# area = 3.14 * radius * radius
+# print(area)
+
+# 12. Take principal, rate, time and calculate simple interest.
+
+# p = float(input("Enter principal amount:"))
+# r = float(input("Enter rate of interest:"))
+
+# t = float(input("Enter time in years:"))
+# si = (p * r* t)/100
+# print(si)
+
+# p = 23
+# r = 4
+# t = 6
+# si = (p * r * t)/100
+# print(si)
+
+
+p = int(input("Enter  principal number:"))
+r = int (input("Enter rate of interest: "))
+t = int(input("Enter time in years:"))
+si = (p * r * t)/100
+print(si)
+
+
+
+
+
