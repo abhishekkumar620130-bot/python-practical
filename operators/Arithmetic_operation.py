@@ -93,7 +93,7 @@
 # print(square)
 
 # num1 = float(input("Enter a number:"))
-# square = num1 ** 3
+# square = num1 ** 2
 # print(square)
 
 
@@ -158,12 +158,29 @@
 # print(si)
 
 
-p = int(input("Enter  principal number:"))
-r = int (input("Enter rate of interest: "))
-t = int(input("Enter time in years:"))
-si = (p * r * t)/100
-print(si)
+# p = int(input("Enter  principal number:"))
+# r = int (input("Enter rate of interest: "))
+# t = int(input("Enter time in years:"))
+# si = (p * r * t)/100
+# print(si)
 
+
+# 13. Take total marks of 5 subjects and calculate percentage.
+
+# marks1 = int(input("Enter marks of subject hindi: "))
+# marks2 = int(input("Enter marks of subject english:"))
+# marks3 = int(input("Enter marks of subject maths:"))
+# marks4 = int(input("Enter marks of subject science:"))
+# marks5 = int(input("Enter marks of subject history:"))
+# total_marks = (marks1 + marks2 + marks3 + marks4 + marks5 ) /500 *100
+# print(total_marks)
+
+# marks1 = int(input("Enyter marks of subject 1:"))
+# marks2 = int(input("Enter marks of subject 2:"))
+# total_marks = (marks1 + marks2 ) /200 *100
+# print(total_marks)
+
+# 14. Take salary and increase it by 10%.
 
 
 
