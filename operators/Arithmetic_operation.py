@@ -181,7 +181,7 @@
 # print(total_marks)
 
 # 14. Take salary and increase it by 10%.
-
-
-
+salary = float(input("Enter your salary:"))
+increased_salary = salary + (salary * 10 / 100)
+print("Your increased salary is:", increased_salary)
 
