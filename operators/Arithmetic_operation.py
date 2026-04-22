@@ -185,3 +185,8 @@ salary = float(input("Enter your salary:"))
 increased_salary = salary + (salary * 10 / 100)
 print("Your increased salary is:", increased_salary)
 
+
+# 15. Take a number and divide it by 2 using /= operator.
+
+# num = float(input("Enter a number:"))
+
