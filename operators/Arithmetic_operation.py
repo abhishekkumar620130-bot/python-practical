@@ -224,3 +224,46 @@
 # print("After swapping:")
 # print("First number:", a)
 # print("Second number:", b)
+
+# j = int(input("Enter a number:"))
+# h = int(input("Enter a number:"))
+
+# j = j + h
+# h = j - h
+# j = j - h
+# print("after swapping:")
+# print("First number:", j)
+# print("second numbeer:", h)
+
+
+# 18. Take a number and check if it is even using %.
+# num = int(input("Enter a number:"))
+# if num % 2 == 0:
+#     print(num, 'is an even number:')
+# else:
+
+#     print(num, 'is an odd number:')
+
+# num = int(input("Enter a number:"))
+# if num % 2 == 0:
+#     print(num , 'is an even number:')
+
+# else:
+#     print(num,'is an odd number:')
+
+# 19. Take a number and check if it is odd using %.
+
+# num = int(input("Enter a number:"))
+# if num % 2 != 0:
+#     print(num,'is an odd number:')
+# else:
+#     print(num,'is an even number:')
+
+20. Take total seconds and convert into minutes (use // and %).
+
+
+
+
+
+
+
