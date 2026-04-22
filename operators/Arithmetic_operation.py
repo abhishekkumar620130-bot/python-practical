@@ -180,13 +180,47 @@
 # total_marks = (marks1 + marks2 ) /200 *100
 # print(total_marks)
 
-# 14. Take salary and increase it by 10%.
-salary = float(input("Enter your salary:"))
-increased_salary = salary + (salary * 10 / 100)
-print("Your increased salary is:", increased_salary)
-
+# 14. 5
+# salary = float(input("Enter your salary:"))
+# increased_salary = salary + (salary * 10 / 100)
+# print("Your increased salary is:", increased_salary)
+  
+# salary =int(input("Enter your salary:"))
+# increased_salary = salary + (salary * 0.10)
+# print("increased salary is :", increased_salary)
 
 # 15. Take a number and divide it by 2 using /= operator.
 
 # num = float(input("Enter a number:"))
+# num /= 2
+# print(num)
 
+# sum = int(input("Enter a number:"))
+# sum += 7
+# print(sum)
+
+# sub = int(input("Enter a number:"))
+# sub -= 5
+# print(sub)
+# mul = int(input("Enter a number:"))
+# mul **= 3
+# print(mul)
+
+# div = int(input("Enter a div num:"))
+# div //=2
+# print(div)
+
+#  16. Take a number and multiply it by 5 using *= operator.
+# num = float(input("Enter a number:"))
+# num *=5
+# print(num)
+
+# 17. Take two numbers and swap them using arithmetic operators.
+# a = int(input("Enter first number:"))
+# b = int(input("Enter second number:"))
+# a = a + b
+# b = a - b
+# a = a - b
+# print("After swapping:")
+# print("First number:", a)
+# print("Second number:", b)
