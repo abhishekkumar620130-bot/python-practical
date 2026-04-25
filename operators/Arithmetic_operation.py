@@ -259,8 +259,19 @@
 # else:
 #     print(num,'is an even number:')
 
-20. Take total seconds and convert into minutes (use // and %).
+# 20. Take total seconds and convert into minutes (use // and %).
+# total_second = int(input("Enter total number of second:"))
+# minutes = total_second // 60
+# remaining_second = total_second % 60
+# print("total minutes:", minutes)
+# print("remaining_second:", remaining_second)
 
+
+second = int(input("#Enter a second:"))
+minutes = second // 60
+remaining_second = second % 60
+print("total" , minutes)
+print("remaining_second:",remaining_second)
 
 
 
