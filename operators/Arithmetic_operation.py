@@ -267,11 +267,21 @@
 # print("remaining_second:", remaining_second)
 
 
-second = int(input("#Enter a second:"))
-minutes = second // 60
-remaining_second = second % 60
-print("total" , minutes)
-print("remaining_second:",remaining_second)
+# second = int(input("#Enter a second:"))
+# minutes = second // 60
+# remaining_second = second % 60
+# print("total" , minutes)
+# print("remaining_second:",remaining_second)
+
+# 21. Take temperature in Celsius and convert to Fahrenheit.
+
+celsius = int(input("Enter a celsius temperature:"))
+fathrenheit = (celsius * 9/5) + 32
+print("temperature in fathrenheit:", fathrenheit)
+
+celsiuss = int(input("Enter a c0 num:"))
+fath = (celsiuss * 9/5) + 32
+print("temperature:", fath)
 
 
 
