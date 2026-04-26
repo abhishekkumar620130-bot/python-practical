@@ -275,16 +275,35 @@
 
 # 21. Take temperature in Celsius and convert to Fahrenheit.
 
-celsius = int(input("Enter a celsius temperature:"))
-fathrenheit = (celsius * 9/5) + 32
-print("temperature in fathrenheit:", fathrenheit)
+# celsius = int(input("Enter a celsius temperature:"))
+# fathrenheit = (celsius * 9/5) + 32
+# print("temperature in fathrenheit:", fathrenheit)
 
-celsiuss = int(input("Enter a c0 num:"))
-fath = (celsiuss * 9/5) + 32
-print("temperature:", fath)
+# celsiuss = int(input("Enter a c0 num:"))
+# fath = (celsiuss * 9/5) + 32
+# print("temperature:", fath)
+
+# 22. Take two numbers and print their power result.
+# num = int(input("Enter a number:"))
+# n = int(input("Enter power number:"))
+# power_result = num ** n
+# print(power_result)
 
 
+# num = int(input("enter a number:"))
+# sencond = int(input("Enter power number:"))
+# power = num ** sencond
+# print(power)
 
+# 23. Take price and discount %, calculate final price.
+
+price = int(input("Enter a price:"))
+discount_precentage = int(input("Enter discount percentage:"))
+discount_amount = (price * discount_precentage) / 100
+# final_price = price - discount_amount
+print("discount_amount:",discount_amount)
+
+# print("final price:",final_price)
 
 
 
