@@ -297,13 +297,92 @@
 
 # 23. Take price and discount %, calculate final price.
 
-price = int(input("Enter a price:"))
-discount_precentage = int(input("Enter discount percentage:"))
-discount_amount = (price * discount_precentage) / 100
-# final_price = price - discount_amount
-print("discount_amount:",discount_amount)
+# price = int(input("Enter a price:"))
+# discount_precentage = int(input("Enter discount percentage:"))
+# discount_amount = (price * discount_precentage) / 100
+# # final_price = price - discount_amount
+# print("discount_amount:",discount_amount)
 
 # print("final price:",final_price)
+
+# price = int(input("Enter a price:"))
+# discount = int(input("Enter discount:"))
+# final = price - (price * discount / 100)
+# print("final price:", final)
+
+# price = int(input("Enter a num:"))
+# discount = 10 
+# final = price -(price * discount / 100)
+# print("final price:", final)
+
+
+# 24. Take a 3-digit number and find sum of digits using % and //.
+
+# num = int(input("enter a digit:"))
+# digit = num % 10
+# num = num // 10
+# digit1 = num % 10
+# num = num // 10
+# digit2 = num % 10
+# num = num // 10
+# sum_of_digits = digit + digit1 + digit2
+# print("sum of digits:", sum_of_digits)
+
+# num = int(input("Enter a number:"))
+# hun = num // 100
+# ten = (num // 10) % 10
+# one = num % 10
+# sum = hun + ten + one
+# print("sum of digits:",sum)
+
+
+# 25. Take two numbers and print remainder without using % (use formula).
+
+# num1 = int(input("Enter first number:"))
+# num2 = int(input("Enter second number:"))
+
+# remainder = num1 -(num2 * (num1 // num2))
+# print("remainder is:",remainder)
+
+# ten = int(input("Enter a number:"))
+# hun = int(input("Enter a number:"))
+# div = ten // hun
+# mul = div * hun
+# rem = ten - mul
+# print("remainder:", rem)
+
+# 26. Take a number and print half of it.
+# num = int(input("Enter a number:"))
+# half = num / 2
+# print("half number:", half)
+
+# 27. Take base and height and calculate area of triangle.
+
+# base = float(input("Enter base of triangle:"))
+# height = float(input("Enter height of triangle:"))
+# area = 0.5 * base * height
+# print("area of triangle:", area)
+
+# 28. Take a number and print its square root using ** 0.5.
+# num = int(input("Enter a number:"))
+# square_root = num ** 0.5
+# print("square root:",square_root)
+
+# ten = int(input("Enter a number;"))
+# square = ten ** 0.5
+# print("square:", square)
+
+# 29. Take monthly salary and calculate yearly salary.
+
+# monthly_salary = float(input("Enter a salary:"))
+# yearly_salary = monthly_salary * 12
+# print("yearly salary:",yearly_salary)
+
+# 30. Take total bill and number of people, calculate per person share.
+# total_bill = float(input("Enter a total bill:"))
+# number_of_pepole = int(input("Enter number of people:"))
+# per_person = total_bill / number_of_pepole
+# print("per person share:", per_person)
 
 
 
