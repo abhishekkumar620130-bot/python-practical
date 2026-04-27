@@ -162,3 +162,40 @@
 # print(num)
 
 # 24. Create x = 81. Apply **= 0.5 (square root).
+# x = 81
+# x **=0.5
+# print(x)
+
+# 25. Take a number and update it three times using +=.
+# num = int(input("Enter a number:"))
+# num +=5
+# print(num)
+
+
+# 26. Create amount = 10000. Increase by 5% using *=.
+# amount = 10000
+# amount *= 1.05
+# print(amount)
+
+# 27. Create x = 15. Apply %= 4 and then += 2.
+# x = 15
+# x %= 4
+# x += 2
+# print(x)
+
+# 28. Take a number and apply /= 3, then *= 2.
+# num  = int(input("Enter a number:"))
+# num /= 3
+# num *= 2
+# print(num)
+
+# 29. Create x = 7. Apply **= 2 and then -= 10.
+# x = 7
+# x **= 2
+# x -= 10
+# print(x)
+
+# 30. Take a number and apply a chain of operations using assignment operators.
+num = int(input("Enter a number:"))
+
+
