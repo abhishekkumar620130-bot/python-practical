@@ -28,3 +28,53 @@
 # 28. Take marks and check if marks >= 75 and marks < 90.
 # 29. Take two inputs and check if both are same and greater than 10.
 # 30. Take number and check if it is not between 10 and 20.
+
+
+# Take age and check if age > 18 and age < 60.
+
+# age = int(input("Enter a age:"))
+
+# if 18 < age < 60:
+#     print("age is between 18 and 60.")
+# else : print("age is outside the range.")
+
+# 2.2. Take marks and check if marks >= 35 and marks <= 100.
+
+# marks = int(input("Enter a number: "))
+# if marks >= 35 and marks <=100:
+#    print("result: pass")
+
+# else:
+#      print("result: fail or invalid marks")
+
+#
+
+# 3.Take salary and check if salary > 30000 and experience > 2.
+
+# salary = int(input("Enter a number"))
+# experience = int(input("Enter a number"))
+# if salary > 30000 and experience >2:
+#      print("status: eligible for promotion/lone")
+# else:
+#      print("it is not eligible promotion/lone")  
+# 
+#  4. Take two numbers and check if both are positive.  
+
+# first = int(input("Enter a number: "))
+# second = int(input("Enter a number: "))
+
+# if first > 0 and second > 0:
+#      print("result: it is positive number:")
+# else:
+#      print("result: it is negative number:")
+
+# 5.Take a number and check if it is between 10 and 50.
+
+# num = int(input("enter a number:"))
+
+# if num >= 10 and  num <= 50:
+#     print('result: it no long numer')
+# else:    
+#     print('result: it long number')
+
+# 6. Take username and password and validate both.
