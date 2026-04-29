@@ -78,3 +78,20 @@
 #     print('result: it long number')
 
 # 6. Take username and password and validate both.
+# correct_name = "admin"
+# correct_password ="123"
+
+# username = input("Enter a username:")
+# password = input("Enter password:")
+# if username == correct_name and password == correct_password:
+#     print("login successful!")
+# else:
+#     print("login is not successful" )    
+
+# 7. Take age and check if age < 18 or age > 60.
+
+# age = int(input("enter a age:"))
+# if age < 18 or age > 60:
+#     print("it is eligible:")
+# else: 
+#     print("it is not eligible:")   
