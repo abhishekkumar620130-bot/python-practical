@@ -94,4 +94,71 @@
 # if age < 18 or age > 60:
 #     print("it is eligible:")
 # else: 
-#     print("it is not eligible:")   
+#     print("it is not eligible:")  
+#  
+# 8.  8. Take marks and check if marks < 35 or marks > 100.
+
+# marks = int(input("Enter a marks:"))
+
+# if marks < 35 :
+#     print("fail condition")
+# elif marks > 100 :
+#     print("invalid condition")
+# else:
+#     print("pass and valid marks")    
+
+# 9. Take temperature and check if temp > 40 or temp < 0.
+
+# temperature = int(input("Enter a temperature:"))
+# if temperature > 40:
+#         print("it very high temperature: ")
+# elif temperature < 0:
+#         print("it is simple temperature:")
+# else:
+#         print("it is invlid")   
+# 
+# 10.   Take two numbers and check if at least one is negative.  
+# num = int(input("Enter a number:"))
+# num1 = int(input("Enyter a number:"))
+
+# if num < 0 or num1 < 0:
+#     print("At least one number is negative")
+# else:
+#     print("Both number are poaitive ")    
+# 11.Take number and check if it is not zero.
+
+# num = int(input("Enter a number:"))
+# if num != 0 :
+#     print("it is not zero")
+# else: 
+#     print("it is zero")    
+
+
+# 12. Take age and check if not (age < 18).
+
+# age = int(input("enter a age:"))
+# if age < 18:
+#     print("you are audlt. ")
+# else:
+#     print("it is not audlt.")
+
+# 13.13. Take a number and check if it is even and greater than 10.
+
+# num = int(input("Enter a num:"))
+# if num % 2 == 0 and num > 10:
+#     print("number even hai aur 10 se bada hai")
+# else:
+#     ("number nhi bada hai")  
+
+# 14. Take salary and check if salary > 50000 or department == "IT".
+
+# salary = int(input("Enter a salry:"))
+# if salary > 50000 or department == "it":
+#     print("your salary  is 50000" )
+# else:
+#     print("your salary is not 50000")  
+# 
+# 15.   
+
+
+ 
