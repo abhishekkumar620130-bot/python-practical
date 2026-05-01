@@ -158,7 +158,26 @@
 # else:
 #     print("your salary is not 50000")  
 # 
-# 15.   
+
+
+# num = int(input("Enter a num:"))
+# if num %2 == 0:
+#     print("Even") 
+#     print("squre:",num*num)
+# else:
+#     print("odd number")    
+
+# 15.  Take two strings and check if both are equal and not empty. 
+  
+num = "apple"
+num1 = "banana"
+if num != "" and num1 != "":
+    if num == num1 :
+        print("String are equal and not empty")
+elif 
+    print("string are not equal")
+else:
+      print("one or both string are empty")    
 
 
  
