@@ -247,4 +247,64 @@
 # else:
 #     print("salary is not in the required range")    
 
-24. Take number and check if not (number > 0).
+# 24. Take number and check if not (number > 0).
+
+# num = int(input("Enter a number"))
+# if not  num > 0:
+#     print("it is not big number")
+# else:
+#     print("it is big number")    
+
+# 25. Take username and check if username == "admin" or username == "root".
+# username = input ("Enter a num:")
+# if username == "admin" or username == "root":
+#     print("it is correct username")
+# else: 
+#     print("it is not correct username")    
+
+# 26. Take number and check if it is odd and greater than 50.
+# num = int(input ("Enter a num:"))
+# if num % 2 != 0 and num > 50:
+#     print("it is odd and greter than")
+# else:
+#     print("it is even num and greter than")    
+
+# 27. Take number and check if it is positive or zero
+# num =  int(input("Enter a number:"))
+# if num >= 0:
+#     print("it is positive number")
+# else:
+#     print("number is negative")    
+
+# 28. Take marks and check if marks >= 75 and marks < 90.
+# marks = int(input("Enter a marks:"))
+# if marks >=75 and marks < 90:
+#     print("it condition is follow")
+# else:
+#     print("it is not condition follow")   
+# 29. Take two inputs and check if both are same and greater than 10.
+
+
+# num = int(input("Enter a num "))
+# num2 = int(input("Enter a num"))
+# if num == num2 and num > 10 :
+#     print("Both numbers are same and greater than 10")
+# else:
+#     print("Both numbers are not same and greater than 10") 
+#
+#  Take number and check if it is not between 10 and 20.
+
+# num = int(input("Enter a num:"))
+# if not num <= 10 or num >=20:
+#     print("Number is NOT between 10 and 20")
+# else:
+#     print("number is between 10 and 20") 
+
+# num = int(input("Enter a num"))
+# if not num <= 100 or num >= 200:
+#     print("it is condition is follow")
+# else:
+#     print("it is no follow condition")        
+
+
+   
