@@ -216,3 +216,35 @@
 # else: 
 #      print("it is not not corret")
 
+# 20. Take two numbers and check if both are not equal to zero.
+
+# num = int(input("Enter a num:"))
+# num2 = int(input("Enter a number:"))
+# if num != 0 and num2 != 0:
+#   print("it is not zero")
+# else:
+#   print("it is  zero")   
+
+#  21. Take age and check if age >= 18 and age <= 25.
+
+# age = int(input("Enter a age:"))
+# if age >= 18 and age <=25:
+#     print("it is perfect age")
+# else:
+#     print("it is not perfect")    
+
+# 22. Take temperature and check safe range (20–30).
+# tem = int(input("Enter tem:"))
+# if tem >= 20 and tem <= 30:
+#     print("it temperaturen between 20 - 30")
+# else:
+#     print("it not temperaturen between 20 - 30")   
+
+# 23. Take salary and check if salary > 40000 and not salary > 100000.
+# salary = int(input("Enter a salary:"))
+# if salary > 40000 and  not salary > 100000:
+#     print("salary is  in the required range")
+# else:
+#     print("salary is not in the required range")    
+
+24. Take number and check if not (number > 0).
