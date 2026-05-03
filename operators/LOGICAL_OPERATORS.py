@@ -169,15 +169,50 @@
 
 # 15.  Take two strings and check if both are equal and not empty. 
   
-num = "apple"
-num1 = "banana"
-if num != "" and num1 != "":
-    if num == num1 :
-        print("String are equal and not empty")
-elif 
-    print("string are not equal")
-else:
-      print("one or both string are empty")    
+# num = "apple"
+# num1 = "banana"
+
+# if num != "" and num1 != "":
+#      if num == num1 :
+#        print("String are equal and not empty")
+#      else:
+#        print("string are not equal")
+# else:
+    #   print("one or both string are empty")    
 
 
- 
+#  16. Take number and check if it is divisible by 3 and 5.
+
+# num = int(input("Enter a number"))
+# if num % 3 == 0 and num % 5 == 0:
+#        print("it is divisible")
+# else: 
+#     print("it is not divisible")
+
+
+# num = int(input("Enter a number"))
+# if num % 3 == 0 and num % 5 == 0:
+#       print("it is divisible")
+# else:
+#       print("it is not divisible")      
+
+# Take marks and check if marks >= 90 or marks < 40.
+# marks = int(input("Enter a marks:"))
+# if marks >= 90 or  marks < 40 :
+#     print("it marks 90 ya big than 90")
+# else: 
+#     print("it condition is false")  
+    
+# marks = int(input("Enter a marks"))
+# if marks >= 90 or marks < 40:
+#     print("it condition true") 
+# else:
+#     print("it condition is false")    
+
+# 19. Take password and check if it is not "1234".
+# password = int(input("Enter a password"))
+# if password == 1234:
+#        print("it is corret password ")
+# else: 
+#      print("it is not not corret")
+
