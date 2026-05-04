@@ -99,3 +99,25 @@
 # else:
 #     print("the two floats are equal")     
 
+#  9. Take a number and check if it is zero.
+# num = int(input("Enter a num"))
+# if num == 0:
+#    print("it is zero")
+# else:
+#    print("it is not zero")
+
+# 10.10. Take password input and check if it equals "admin".
+# password = input ("Enter a password")
+# if password == "admin":
+#     print("it is correct")
+# else:
+#     print("it is not correct")
+
+
+# 11.Take username and check if it equals "Sagar".
+# username = input("Enter a name:")
+# if username == "sagar":
+#     print("it is correct")
+# else:
+#     print("it is not correct")     
+ 
