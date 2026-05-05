@@ -175,40 +175,4 @@
 # else:
 #     print("age is 60.")
 
-#  19. Take two numbers and check which one is bigger.
-# num = int(input("Enter a num"))50
-# num1 = int(input("Enter a num"))
-# if num == num1:
-#     print("it is equal")
-# else:
-#     print("it is not equal")    
-
-# 20. Take exam score and check if score >= 90.
-
-# score = int(input("Enter a score"))
-# if score >= 90:
-#     print("if score >= 90.")
-# else:
-#     print("if is not score >= 90.")    
-
-
-# 21.Take two float numbers and compare equality.
-
-# num1= int(input("ENTER A NUMBER"))
-# num2 = int(input("Enter a number"))
-# if num1 == num2:
-#     print("it is equality")
-# else: 
-#     print("it is not equality") 
-
-# 21. Take two float numbers and compare equality.
-
-# num = float(input("Enter a num"))
-# num2 = float(input("Entern a num"))
-# if num == num2:
-#     print("it is equality")
-# else:
-#     print("it is not equality")
-
-
-
+#  
