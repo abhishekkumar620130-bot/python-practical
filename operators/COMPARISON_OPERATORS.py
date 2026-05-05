@@ -121,3 +121,94 @@
 # else:
 #     print("it is not correct")     
  
+# 12. Take a number and check if it is positive.
+
+# num = int(input("Enter a number"))
+# if num > 0:
+#     print("it is possitive number")
+# else:
+#     print("it is not possitive number")
+
+# 13. Take a number and check if it is negative.
+# num = int(input("Enter a num"))
+# if num < 0:
+#     print("it is negative number")
+# else:
+#     print("it is not negative number")
+
+# 14. Take two numbers and check if first is less than or equal.else
+# num = int(input("Enter a number"))
+# num2 = int(input("Enter a number"))
+# if num <= num2:
+#     print("first is less than or equal.")
+# else:
+#     print(" first is not less than or equal.else")    
+
+#  15. Take price and check if it is greater than 1000.
+
+# price = int(input("Enter a price"))
+# if price > 1000:
+#     print("it is greater than 1000.")
+# else:
+#       print("it is not greater than 1000.")   
+
+# 16.Take two strings and compare if they are equal.
+# num = input ("Enter a num:")
+# num2 =input("Enter a num:")
+# if num == num2:
+#     print("Strings are equal")
+# else:
+#     print("Strings not are equal")
+
+# 17. Take a number and check if it is exactly 100.
+# num = int(input("Enter a num"))
+# if num == 100:
+#     print("it is exactly 100.")
+# else:
+#     print("it is  not exactly 100.")    
+
+# 18. Take age and check if age is not 60.
+
+# age = int(input("Enter a age:"))
+# if age != 60:
+#     print("age is not 60.") 
+# else:
+#     print("age is 60.")
+
+#  19. Take two numbers and check which one is bigger.
+# num = int(input("Enter a num"))50
+# num1 = int(input("Enter a num"))
+# if num == num1:
+#     print("it is equal")
+# else:
+#     print("it is not equal")    
+
+# 20. Take exam score and check if score >= 90.
+
+# score = int(input("Enter a score"))
+# if score >= 90:
+#     print("if score >= 90.")
+# else:
+#     print("if is not score >= 90.")    
+
+
+# 21.Take two float numbers and compare equality.
+
+# num1= int(input("ENTER A NUMBER"))
+# num2 = int(input("Enter a number"))
+# if num1 == num2:
+#     print("it is equality")
+# else: 
+#     print("it is not equality") 
+
+# 21. Take two float numbers and compare equality.
+
+# num = float(input("Enter a num"))
+# num2 = float(input("Entern a num"))
+# if num == num2:
+#     print("it is equality")
+# else:
+#     print("it is not equality")
+
+
+
