@@ -292,7 +292,7 @@
 # else:
 #     print("Both numbers are not same and greater than 10") 
 #
-#  Take number and check if it is not between 10 and 20.
+# 30.Take number and check if it is not between 10 and 20.
 
 # num = int(input("Enter a num:"))
 # if not num <= 10 or num >=20:
