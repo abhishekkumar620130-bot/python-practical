@@ -1,6 +1,5 @@
+# ### Basic Level (1–15)
 # Conditionals
-### Basic Level (1–15)
-
 # 1. Take a number and check if it is positive, negative, or zero.
 # 2. Take a number and check if it is even or odd.
 # 3. Take age and print:
@@ -33,3 +32,87 @@
 #     - otherwise → Invalid User
 # 15. Take password and check if it matches "python123".
 
+# ---
+
+# ### Intermediate Level (16–35)
+
+# 1. Take three numbers and print the largest.
+# 2. Take three numbers and print the smallest.
+# 3. Take a number and check if it is divisible by 2 and 3.
+# 4. Take number and print:
+#     - "Small" if < 10
+#     - "Medium" if 10–100
+#     - "Large" if > 100
+# 5. Take income and calculate tax:
+#     - < 2.5L → No tax
+#     - 2.5L–5L → 5%
+#     - 5L–10L → 10%
+#     - 10L → 20%
+# 6. Take two numbers and check if one is multiple of another.
+# 7. Take a string and check:
+#     - If length < 5 → Short
+#     - 5–10 → Medium
+#     - 10 → Long
+# 8. Take age and check voting eligibility (>=18).
+# 9. Take electricity units and calculate bill based on slab.
+# 10. Take basic salary and calculate bonus based on experience.
+# 11. Take a number and check if it is a perfect square.
+# 12. Take day number (1–7) and print weekday name.
+# 13. Take month number (1–12) and print month name.
+# 14. Take a number and classify as:
+#     - Even positive
+#     - Even negative
+#     - Odd positive
+#     - Odd negative
+# 15. Take two strings and check if they are equal ignoring case.
+# 16. Take a float number and check if it is integer value or decimal.
+# 17. Take percentage and check scholarship eligibility.
+# 18. Take two numbers and check if they form a right triangle (Pythagoras).
+# 19. Take speed and classify:
+#     - Slow (< 30)
+#     - Normal (30–70)
+#     - Fast (> 70)
+# 20. Take login attempts and print warning after 3 attempts.
+
+# ---
+
+# ### Advanced Logic Practice (36–50)
+
+# 1. Take a number and print:
+#     - "Fizz" if divisible by 3
+#     - "Buzz" if divisible by 5
+#     - "FizzBuzz" if divisible by both
+#     - otherwise print number
+# 2. Take age and gender and check special ticket discount eligibility.
+# 3. Take salary and experience and classify promotion eligibility.
+# 4. Take two numbers and check if both are positive, both negative, or mixed.
+# 5. Take number and check if it lies in:
+#     - 0–50
+#     - 51–100
+#     - 101–200
+#     - above 200
+# 6. Take character input and check:
+#     - uppercase
+#     - lowercase
+#     - digit
+#     - special character
+# 7. Take three sides and check:
+#     - Equilateral
+#     - Isosceles
+#     - Scalene triangle
+# 8. Take a number and check Armstrong number (3-digit).
+# 9. Take balance and withdrawal amount. Check if transaction is allowed.
+# 10. Take score and print performance message.
+# 11. Take age and check insurance premium category.
+# 12. Take two numbers and check if they are both even, both odd, or mixed.
+# 13. Take time in hours and print:
+#     - Morning
+#     - Afternoon
+#     - Evening
+#     - Night
+# 14. Take product price and customer type (regular/premium) and calculate discount.
+# 15. Take a number and check:
+#     - Less than 0
+#     - Between 0 and 100
+#     - Greater than 100
+#     - Exactly 100
