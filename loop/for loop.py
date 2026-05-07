@@ -320,3 +320,17 @@
 #  ***
 # ****
 # ​
+# Diamond Pattern
+# Problem:
+# Print a diamond pattern of height N.
+# Input:
+# 4
+# Output:
+#    *
+#   ***
+#  *****
+# *******
+#  *****
+#   ***
+#    *
+# ​
