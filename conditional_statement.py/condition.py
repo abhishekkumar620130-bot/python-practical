@@ -810,3 +810,126 @@
 # else:
 #     print("Fail")
 
+#  3. Take salary and experience.
+    
+#     If salary > 50000:
+    
+#     If experience >= 5 → Promotion eligible
+    
+#     Else → Not eligible (experience low)
+    
+#     Else → Salary too low
+
+# salary = int(input("Enter a salary:"))
+# experience = int(input("Enter a experince:"))
+# if salary > 5000:
+#     if experience >= 5:
+#         print("it is Promotion eligible") 
+#     else:
+#             print("Not eligible (experience low)")
+# else:
+#             print("Salary too low")         
+
+
+# 4. Take username and password.
+    
+#     If username == "admin":
+    
+#     If password == "1234":
+    
+#     Login successful
+    
+#     Else:
+    
+#     Wrong password
+    
+#     Else:
+    
+#     Invalid username
+ 
+
+# username = input("Enter a name:")
+# password = input("Enter a password")
+# if username == "admin" :
+#     if password == "1234":
+#      print("Login successful")
+#     else:
+#         print("Wrong password") 
+# else:
+#          print("Invalid username")     
+#   
+# 5. Take a number.
+    
+#     If number > 0:
+    
+#     If number % 2 == 0:
+    
+#     If number % 4 == 0 → Divisible by 4
+    
+#     Else → Even but not divisible by 4
+    
+#     Else → Odd positive
+    
+#     Else:
+    
+#     Negative or zero
+
+# num = int(input("Enter a num:"))
+# if num > 0 :
+#     if num % 2 ==0:
+#      if num % 4 == 0:
+#         print("Divisible by 4")
+#      else:
+#        print("Even but not divisible by 4")
+#     else:
+#        print("Odd positive")
+    
+# else:
+#       print(" Negative or zero")
+
+# 6. Take temperature.
+    
+#     If temp < 0:
+    
+#     If temp < -10 → Extreme cold
+    
+#     Else → Freezing
+    
+#     Else:
+    
+#     If temp <= 30 → Normal
+    
+#     Else → Hot
+    
+# tem = int(input("ENter a tem: "))
+# if tem < 0:
+#     if tem <-10:
+#         print("Extreme cold")
+#     else:
+#           print("Freezing")
+# else:
+#    if tem <= 30:
+#            print("Normal")   
+#    else:
+#      print("hot")        
+          
+    #  7. Take income and age.
+    
+#     If income > 300000:
+    
+#     If age < 60 → Tax applicable
+    
+#     Else → Senior citizen discount
+    
+#     Else → No tax    
+# 
+# income = int(input("Enter a income")) 
+# if income > 300000:
+#     if age < 60:
+#      print("Tax applicable")
+#     else:
+#      print("Senior citizen discount")
+# else:
+#     print("No tax  ")
+
+# 
