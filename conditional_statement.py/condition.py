@@ -932,4 +932,56 @@
 # else:
 #     print("No tax  ")
 
-# 
+# 8. Take marks and attendance %.
+    
+#     If attendance >= 75:
+    
+#     If marks >= 40 → Pass
+    
+#     Else → Fail (low marks)
+    
+#     Else → Not eligible for exam
+
+# marks = int(input("Enter a marks:"))
+# att = int(input("Enter a att:"))
+# if att >= 75:
+#     if marks >= 40:
+#       print("pass") 
+#     else:
+#      print("fail")
+# else:
+#     print("Not eligible for exam")  
+#  
+#  9. Take 3 sides of triangle.
+    
+#     If all sides > 0:
+    
+#     If a+b>c and b+c>a and a+c>b:
+    
+#     If all equal → Equilateral
+    
+#     If any two equal → Isosceles
+    
+#     Else → Scalene
+    
+#     Else → Not valid triangle
+    
+#     Else → Invalid input
+
+# a = int(input("Enter side a: "))
+# b = int(input("Enter side b: "))
+# c = int(input("Enter side c:"))
+# if a > 0 and b > 0 and c > 0:
+#      if a+b+c and b+c>a and a+c>b:
+#          if a == b and b == c:
+#              print("Equilateral")
+#          elif a == b and b==c:
+#           print("Isosceles")
+#          else:
+#           print("Scalene") 
+#      else:  
+#        print("Not valid triangle")   
+# else:
+#      print("Invalid input")  
+
+#  
