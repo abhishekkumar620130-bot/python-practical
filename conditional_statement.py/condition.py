@@ -691,5 +691,426 @@
 # else:
 #     ("not a perfect squre")
 
+#
+# 
+# 14. Take username and check:
+#     - "admin" → Admin Access
+#     - "guest" → Guest Access
+#     - otherwise → Invalid User
+#
+
+# 11. Take a number and check if it is 1-digit, 2-digit, or 3-digit.
+# num = int(input("Enter a num:"))
+# if num < 1:
+#     print("it is  1-digit")
+# elif  num < 10:
+#     print("it is 2-digit")  
+# elif num < 100:
+#     print("it is 3-digit") 
+# 
+#  12. Take exam score and print grade (A, B, C, D, F).
+# score = input("Enter a num:")
+# if score == "A":
+#     print("it is A")
+# elif score == "B":
+#     print("it is B")
+# elif score == "c":
+#     print("it is c")
+# elif score == "D"  :
+#     print("it is F")     
+
+# 13. Take a number and check if it lies between 10 and 50.
+# num = int(input("Enter a num:"))
+# if num >=10 and num <= 50:
+#     print(" it lies between 10 and 50")
+# else:
+#     print(" it lies  not between 10 and 50.")   
+#  
+
+# 14. Take username and check:
+#     - "admin" → Admin Access
+#     - "guest" → Guest Access
+#     - otherwise → Invalid User
+
+# username = input("Enter a username")
+# if username == "admin":
+#     print(" Admin Access")
+# elif username == "guest":
+#     print("Guest access")
+# else:
+#     print("it is invalid user")   
+#   
+#  15. Take password and check if it matches "python123".
+# password = input("Enter a password")
+# if password == "python123":
+#         print("it is correct")
+# else:
+#         print("it is not correct")     
+#    
 
 
+# Hard questions
+
+## HARD LEVEL NESTED IF-ELIF-ELSE QUESTIONS
+
+# 1. Take age and citizenship.
+    
+#     If age >= 18:
+    
+#     If citizenship is "Indian" → Eligible to vote
+    
+#     Else → Not eligible (citizenship issue)
+    
+#     Else → Not eligible (age issue)
+
+# answer -:
+# age = int(input("Enter a age: "))
+# citizenship = input("Enter a citizenship: ")
+
+# if age >= 18:
+#     if citizenship == "Indian":
+#         print("Eligible to vote")
+#     else:
+#         print("Not eligible (citizenship issue)")
+# else:
+#     print("Not eligible (age issue)")
+
+#  2. Take marks in 3 subjects.
+    
+#     If all marks >= 35:
+    
+#     Calculate average:
+    
+#     If average >= 75 → Distinction
+    
+#     If 60–74 → First Class
+    
+#     Else → Pass
+    
+#     Else → Fail
+
+
+# m1 = int(input("Enter marks"))
+# m2 = int(input("Enter marks"))
+# m3 = int(input("Enter marks"))
+
+# if m1 >= 35 and m2 >= 35 and m3 >= 35:
+
+#     average = (m1 + m2 + m3) / 3
+
+#     if average >= 75:
+#         print("Distinction")
+
+#     elif average >= 60 and average <= 74:
+#         print("First Class")
+
+#     else:
+#         print("Pass")
+
+# else:
+#     print("Fail")
+
+#  3. Take salary and experience.
+    
+#     If salary > 50000:
+    
+#     If experience >= 5 → Promotion eligible
+    
+#     Else → Not eligible (experience low)
+    
+#     Else → Salary too low
+
+# salary = int(input("Enter a salary:"))
+# experience = int(input("Enter a experince:"))
+# if salary > 5000:
+#     if experience >= 5:
+#         print("it is Promotion eligible") 
+#     else:
+#             print("Not eligible (experience low)")
+# else:
+#             print("Salary too low")         
+
+
+# 4. Take username and password.
+    
+#     If username == "admin":
+    
+#     If password == "1234":
+    
+#     Login successful
+    
+#     Else:
+    
+#     Wrong password
+    
+#     Else:
+    
+#     Invalid username
+ 
+
+# username = input("Enter a name:")
+# password = input("Enter a password")
+# if username == "admin" :
+#     if password == "1234":
+#      print("Login successful")
+#     else:
+#         print("Wrong password") 
+# else:
+#          print("Invalid username")     
+#   
+# 5. Take a number.
+    
+#     If number > 0:
+    
+#     If number % 2 == 0:
+    
+#     If number % 4 == 0 → Divisible by 4
+    
+#     Else → Even but not divisible by 4
+    
+#     Else → Odd positive
+    
+#     Else:
+    
+#     Negative or zero
+
+# num = int(input("Enter a num:"))
+# if num > 0 :
+#     if num % 2 ==0:
+#      if num % 4 == 0:
+#         print("Divisible by 4")
+#      else:
+#        print("Even but not divisible by 4")
+#     else:
+#        print("Odd positive")
+    
+# else:
+#       print(" Negative or zero")
+
+# 6. Take temperature.
+    
+#     If temp < 0:
+    
+#     If temp < -10 → Extreme cold
+    
+#     Else → Freezing
+    
+#     Else:
+    
+#     If temp <= 30 → Normal
+    
+#     Else → Hot
+    
+# tem = int(input("ENter a tem: "))
+# if tem < 0:
+#     if tem <-10:
+#         print("Extreme cold")
+#     else:
+#           print("Freezing")
+# else:
+#    if tem <= 30:
+#            print("Normal")   
+#    else:
+#      print("hot")        
+          
+    #  7. Take income and age.
+    
+#     If income > 300000:
+    
+#     If age < 60 → Tax applicable
+    
+#     Else → Senior citizen discount
+    
+#     Else → No tax    
+# 
+# income = int(input("Enter a income")) 
+# if income > 300000:
+#     if age < 60:
+#      print("Tax applicable")
+#     else:
+#      print("Senior citizen discount")
+# else:
+#     print("No tax  ")
+
+# 8. Take marks and attendance %.
+    
+#     If attendance >= 75:
+    
+#     If marks >= 40 → Pass
+    
+#     Else → Fail (low marks)
+    
+#     Else → Not eligible for exam
+
+# marks = int(input("Enter a marks:"))
+# att = int(input("Enter a att:"))
+# if att >= 75:
+#     if marks >= 40:
+#       print("pass") 
+#     else:
+#      print("fail")
+# else:
+#     print("Not eligible for exam")  
+#  
+#  9. Take 3 sides of triangle.
+    
+#     If all sides > 0:
+    
+#     If a+b>c and b+c>a and a+c>b:
+    
+#     If all equal → Equilateral
+    
+#     If any two equal → Isosceles
+    
+#     Else → Scalene
+    
+#     Else → Not valid triangle
+    
+#     Else → Invalid input
+
+# a = int(input("Enter side a: "))
+# b = int(input("Enter side b: "))
+# c = int(input("Enter side c:"))
+# if a > 0 and b > 0 and c > 0:
+#      if a+b+c and b+c>a and a+c>b:
+#          if a == b and b == c:
+#              print("Equilateral")
+#          elif a == b and b==c:
+#           print("Isosceles")
+#          else:
+#           print("Scalene") 
+#      else:  
+#        print("Not valid triangle")   
+# else:
+#      print("Invalid input")  
+
+#  10. Take bank balance and withdrawal amount.
+    
+#     If withdrawal <= balance:
+    
+#     If withdrawal <= 20000 → Transaction approved
+    
+#     Else → Limit exceeded
+    
+#     Else → Insufficient balance
+
+# balance = int(input("Enter a balance:"))
+# withdrawal = int(input("Entera withdrawal: "))
+# if withdrawal <= balance:
+#     if withdrawal <= 20000:
+#         print("Transaction approved") 
+#     else:
+#         print("Limit exceeded")    
+# else:
+#     print("Insufficient balance")  
+# 
+# 11. Take two numbers.
+    
+#     If first > second:
+    
+#     If first % second == 0 → Divisible
+    
+#     Else → Not divisible
+    
+#     Else:
+    
+#     Reverse logic and check 
+
+# num = int(input("Enter a num:"))
+# num1 = int(input("Enter a num:"))
+# if num > num1:
+#     if num % num1 ==0:
+#         print("Divisible")
+#     else:
+#         print("Not divisible")    
+# else:
+#     print("Reverse logic and check")
+
+# 12. Take electricity units.
+    
+#     If units <= 100:
+    
+#     Low bill
+    
+#     Else:
+    
+#     If units <= 300:
+    
+#     Medium bill
+    
+#     Else:
+    
+#     High bill
+# units = int(input("Enter a units:"))
+# if unit <= 100:
+#     print("Low bill")
+# else:
+#     if units <= 300:
+#         print("Medium bill")
+#     else:
+#         print("high bill")
+
+
+# 13. Take age and driving test score.
+    
+#     If age >= 18:
+    
+#     If score >= 80 → License approved
+    
+#     Else → Retest required
+    
+#     Else → Not eligible/
+
+# age = int(input("Enter a age:"))
+# score = int(input("Enter a score:"))
+# if age >= 18:
+#     if score >= 80:
+#      print("License approved") 
+#     else:
+#      print("Retest required")   
+# else:
+#   print("Not eligible")
+#  
+# 
+# 14. Take password length and content.
+    
+#     If length >= 8:
+    
+#     If contains digit:
+    
+#     If contains uppercase:
+    
+#     Strong password
+    
+#     Else → Medium
+    
+#     Else → Weak
+    
+#     Else → Too short  
+
+
+# password = input("Enter password: ")
+
+# if len(password) >= 8:
+
+#     if any(ch.isdigit() for ch in password):
+
+#         if any(ch.isupper() for ch in password):
+#             print("Strong password")
+
+#         else:
+#             print("Medium")
+
+#     else:
+#         print("Weak")
+
+# else:
+#     print("Too short")
+
+
+
+
+
+
+
+            
