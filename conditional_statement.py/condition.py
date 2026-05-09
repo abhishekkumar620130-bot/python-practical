@@ -984,4 +984,174 @@
 # else:
 #      print("Invalid input")  
 
+#  10. Take bank balance and withdrawal amount.
+    
+#     If withdrawal <= balance:
+    
+#     If withdrawal <= 20000 → Transaction approved
+    
+#     Else → Limit exceeded
+    
+#     Else → Insufficient balance
+
+# balance = int(input("Enter a balance:"))
+# withdrawal = int(input("Entera withdrawal: "))
+# if withdrawal <= balance:
+#     if withdrawal <= 20000:
+#         print("Transaction approved") 
+#     else:
+#         print("Limit exceeded")    
+# else:
+#     print("Insufficient balance")  
+# 
+# 11. Take two numbers.
+    
+#     If first > second:
+    
+#     If first % second == 0 → Divisible
+    
+#     Else → Not divisible
+    
+#     Else:
+    
+#     Reverse logic and check 
+
+# num = int(input("Enter a num:"))
+# num1 = int(input("Enter a num:"))
+# if num > num1:
+#     if num % num1 ==0:
+#         print("Divisible")
+#     else:
+#         print("Not divisible")    
+# else:
+#     print("Reverse logic and check")
+
+# 12. Take electricity units.
+    
+#     If units <= 100:
+    
+#     Low bill
+    
+#     Else:
+    
+#     If units <= 300:
+    
+#     Medium bill
+    
+#     Else:
+    
+#     High bill
+# units = int(input("Enter a units:"))
+# if unit <= 100:
+#     print("Low bill")
+# else:
+#     if units <= 300:
+#         print("Medium bill")
+#     else:
+#         print("high bill")
+
+
+# 13. Take age and driving test score.
+    
+#     If age >= 18:
+    
+#     If score >= 80 → License approved
+    
+#     Else → Retest required
+    
+#     Else → Not eligible/
+
+# age = int(input("Enter a age:"))
+# score = int(input("Enter a score:"))
+# if age >= 18:
+#     if score >= 80:
+#      print("License approved") 
+#     else:
+#      print("Retest required")   
+# else:
+#   print("Not eligible")
 #  
+# 
+# 14. Take password length and content.
+    
+#     If length >= 8:
+    
+#     If contains digit:
+    
+#     If contains uppercase:
+    
+#     Strong password
+    
+#     Else → Medium
+    
+#     Else → Weak
+    
+#     Else → Too short  
+
+
+# password = input("Enter password: ")
+
+# if len(password) >= 8:
+
+#     if any(ch.isdigit() for ch in password):
+
+#         if any(ch.isupper() for ch in password):
+#             print("Strong password")
+
+#         else:
+#             print("Medium")
+
+#     else:
+#         print("Weak")
+
+# else:
+#     print("Too short")
+
+# 15. Take product price and customer type.
+    
+#     If customer == "premium":
+    
+#     If price > 5000 → 20% discount
+    
+#     Else → 10% discount
+    
+#     Else:
+    
+#     If price > 5000 → 5% discount
+    
+#     Else → No discount
+
+# price = float(input("Enter product price:"))
+# customer = input("Enter customer type :")
+# if customer == "premium":
+#     if price > 5000:
+#         discount = price * 0.20
+#         print("discount", discount)
+#     else:
+#         discount = price * 0.10
+#         print("discount=", discount)
+
+# 16. Take age and health condition.
+    
+#     If age > 60:
+    
+#     If health == "good" → Low premium
+    
+#     Else → High premium
+    
+#     Else:
+    
+#     Normal premium
+
+# age = int(input("Enter age:"))
+# health = input("Enter health condition (good/poor):")
+# if age > 60:
+#    if health == "good":
+#        print("low premium")
+#    else:
+#        print("high premium")
+# else:
+#     print("normal premium")
+
+   
+# 
