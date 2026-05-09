@@ -1154,4 +1154,102 @@
 #     print("normal premium")
 
    
+# 17. Take exam score.
+    
+#     If score >= 90:
+    
+#     Grade A
+    
+#     Else:
+    
+#     If score >= 75:
+    
+#     Grade B
+    
+#     Else:
+    
+#     If score >= 50:
+    
+#     Grade C
+    
+#     Else:
+    
+#     Fail
+
+# score = int(input("Enter exam score:"))
+# if score >= 90:
+#     print("grade A")
+# else:
+#     if score >= 75:
+#         print("grade b")
+#     else:
+#         if score >= 50:
+#             print("grade c")
+#         else:
+#             print("fail")
+
+
+# 18. Take time (24-hour format).
+    
+#     If 0 <= time <= 23:
+    
+#     If time < 12 → Morning
+    
+#     Else:
+    
+#     If time < 17 → Afternoon
+    
+#     Else:
+    
+#     If time < 20 → Evening
+    
+#     Else → Night
+    
+#     Else → Invalid time
+    
+# time = int(input("Enter time (0-23):"))
+# if time <= 23 and time >= 0:
+#     if time < 12:
+#      print("morning")
+#     else:
+#        if time < 17 :
+#         print("afternoon") 
+#        else:
+#          if time < 20:
+#            print("Evening")
+#          else:
+#            print("night")
+# else:
+#             print("invalid time")
+
+# 20. Take username and role.
+    
+#     If username exists:
+    
+#     If role == "admin":
+    
+#     Full access
+    
+#     Else:
+    
+#     If role == "editor":
+    
+#     Edit access
+    
+#     Else:
+    
+#     View only
+    
+#     Else → User not found
+# username = input("Enter username:")
+# role = input("Enter  a role: ")
+# if username :
+#     if role == "admin":
+#         print("full access")
+#     else:
+#         if rple == "editior":
+#             print("edit access")
+#         else:
+#             print("view only")
+
 # 
