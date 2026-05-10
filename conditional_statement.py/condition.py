@@ -1414,6 +1414,66 @@
 #         print("Average")
 # else:
 #         print("poor")
+ 27. Take BMI value.
+    
+#     If BMI < 18.5:
+    
+#     Underweight
+    
+#     Else:
+    
+#     If BMI < 25:
+    
+#     Normal
+    
+#     Else:
+    
+#     If BMI < 30:
+    
+#     Overweight
+    
+#     Else:
+    
+#     Obese
+
+# bmi = float(input("Enter bmi value:"))
+# if bmi < 18.5:
+#     print("Underweight")
+# elif bmi < 25:
+#     print("normal")
+# elif bmi < 30:
+#     print("overweight")
+# else:
+#     print("obese")
+
+#  28. Take account type and balance.
+    
+#     If type == "savings":
+    
+#     If balance >= 1000 → Active
+    
+#     Else → Below minimum
+    
+#     Else:
+    
+#     If type == "current":
+    
+#     Always active
+    
+#     Else:
+    
+#     Invalid type
+
+# type = input("Enter account type(savings/current:)")
+# balance = int(input("Enter balance:"))
+# if type == "savings":
+#     if balance >= 1000:
+#         print("Active")
+#     else:
+#         print("Below minium")
+# elif type == "current":
+#     print("Always active")
+# else:
+#     print("invalid type")
 
 
-#
