@@ -1252,4 +1252,168 @@
 #         else:
 #             print("view only")
 
-# 
+# 21. Take salary and department.
+    
+#     If department == "IT":
+    
+#     If salary > 100000 → Senior Developer
+    
+#     Else → Junior Developer
+    
+#     Else:
+    
+#     If department == "HR":
+    
+#     HR Staff
+    
+#     Else:
+    
+#     Other Department
+
+# salary = int(input("Enter salary:"))
+# dep = input("Enter department:")
+# if dep == "it":
+#     if salary > 100000:
+#         print("Senior developer")
+#     else:
+#       print("junior developer")
+    
+# elif dep == "HR": 
+#        print("HR staff")
+# else:
+#     print("other department")
+
+    # 22. Take two numbers and check quadrant logic (like coordinates).
+    
+#     If x > 0:
+    
+#     If y > 0 → Quadrant 1
+    
+#     Else → Quadrant 4
+    
+#     Else:
+    
+#     If y > 0 → Quadrant 2
+    
+#     Else → Quadrant 3  
+  
+# x = int(input("Enter x coordinate:"))
+# y = int(input("Enter y coordinate:"))
+# if x > 0:
+#     if y > 0:
+#         print("Quadrant 1")
+#     else:
+#         print("quadrant 4")
+    
+# elif y > 0:
+#      print("Quadrant 2")
+# else:
+#         print("Quadrant 3")
+
+# 23. Take 3 numbers and check if strictly increasing.
+    
+#     If a < b:
+    
+#     If b < c → Strictly increasing
+    
+#     Else → Not increasing
+    
+#     Else → Not increasing
+# a = int(input("Enter a :"))
+# b = int(input("Enter b :"))
+# c = int(input("Enter c:"))
+# if a < b:
+#     if b < c:
+#         print("strictly increasing")
+#     else:
+#         print("not increasing")
+# else:
+#     print("not increasing")
+
+# 24. Take student type and marks.
+    
+#     If student == "regular":
+    
+#     If marks >= 40 → Pass
+    
+#     Else → F ail
+    
+#     Else:
+    
+#     If marks >= 50 → Pass
+    
+#     Else → Fail
+
+# student = input("Enter student type (regular/special)")
+# marks = int(input("Enter marks:"))
+# if student == "regular":
+#     if marks >= 40:
+#         print("pass")
+#     else:
+#         print("fail")
+    
+# elif marks >= 50:
+#       print("pass")
+# else:
+#         print("fail")
+
+# 25. Take number.
+    
+#     If number % 2 == 0:
+    
+#     If number % 3 == 0:
+    
+#     Divisible by 6
+    
+#     Else:
+    
+#     Only divisible by 2
+    
+#     Else:
+    
+#     If number % 3 == 0:
+    
+#     Only divisible by 3
+    
+#     Else:
+    
+#     Not divisible by 2 or 3
+
+# num = int(input("Enter a num:"))
+# if num % 2 == 0:
+#     if num % 3 == 0:
+#         print("divisible by 6")
+#     else:
+#         print("only divisible by 2")
+# elif num % 3 == 0:
+#     print("only divisible by 3")
+# else:
+#     print("not divisible by 2 or 3")        
+
+
+#  26. Take credit score.
+    
+#     If score >= 750:
+    
+#     Excellent
+    
+#     Else:
+    
+#     If score >= 600:
+    
+#     Average
+    
+#     Else:
+    
+#     Poor
+
+# score = int(input("Enter credit score:"))
+# if score >= 750:
+#     print("Excellent")
+# elif score >= 600:
+#         print("Average")
+# else:
+#         print("poor")
+
+
+#
