@@ -11,6 +11,8 @@
 # Input: 5
 # Output:
 # 1 2 3 4 5
+
+# 2.
 # Sum of First N Numbers
 # Problem:
 # Given N, compute the sum of numbers from 1 to N.
@@ -22,6 +24,10 @@
 # Input: 5
 # Output:
 # 15
+
+
+
+# 3.
 # Multiplication Table
 # Problem:
 # Given an integer N, print its multiplication table up to 10.
@@ -38,6 +44,10 @@
 # 3 x 2 = 6
 # ...
 # 3 x 10 = 30
+
+
+
+# 4.
 # Count Even Numbers
 # Problem:
 # Given N, count how many even numbers exist between 1 and N.
@@ -49,6 +59,9 @@
 # Input: 10
 # Output:
 # 5
+
+
+# 5.
 # Reverse Counting
 # Problem:
 # Print numbers from N down to 1.
@@ -66,11 +79,17 @@
 # Input:
 # Integer N.
 # Output:
+
+
+# 6.
 # Sequence of squares.
 # Example:
 # Input: 4
 # Output:
 # 1 4 9 16
+
+
+# 7.
 # Count Digits
 # Problem:
 # Given an integer N, count how many digits it contains.
@@ -82,6 +101,10 @@
 # Input: 12345
 # Output:
 # 5
+
+
+
+# 8.
 # Sum of Digits
 # Problem:
 # Given N, find sum of its digits.
@@ -93,6 +116,9 @@
 # Input: 123
 # Output:
 # 6
+
+
+# 9.
 # Count Vowels
 # Problem:
 # Given a string S, count number of vowels.
@@ -103,6 +129,9 @@
 # Example:
 # Input: hello
 # Output:
+
+
+
 # 2
 # Factorial
 # Problem:
@@ -115,6 +144,9 @@
 # Input: 5
 # Output:
 # 120
+
+
+
 # MEDIUM LEVEL (11–20)
 # Reverse a Number
 # Problem:
@@ -127,6 +159,10 @@
 # Input: 123
 # Output:
 # 321
+
+
+
+
 # Fibonacci Series
 # Problem:
 # Print first N Fibonacci numbers.
@@ -138,6 +174,9 @@
 # Input: 5
 # Output:
 # 0 1 1 2 3
+
+
+
 # Prime Check
 # Problem:
 # Determine if N is prime.
@@ -149,6 +188,12 @@
 # Input: 7
 # Output:
 # True
+
+
+
+
+
+
 # Print All Factors
 # Problem:
 # Print all factors of N.
@@ -160,6 +205,9 @@
 # Input: 6
 # Output:
 # 1 2 3 6
+
+
+
 # Largest Digit
 # Problem:
 # Find largest digit in N.
@@ -171,6 +219,9 @@
 # Input: 5482
 # Output:
 # 8
+
+
+
 # Armstrong Number
 # Problem:
 # Check whether N is an Armstrong number (3-digit).
@@ -183,6 +234,9 @@
 # Output:
 # True
 # Count Uppercase and Lowercase
+
+
+
 # Problem:
 # Given string S, count uppercase and lowercase characters.
 # Input:
@@ -220,6 +274,13 @@
 # 12
 # 123
 # 1234
+
+
+
+
+
+
+
 # HARD LEVEL (21–30)
 # Print All Primes up to N
 # Problem:
@@ -232,6 +293,9 @@
 # Input: 10
 # Output:
 # 2 3 5 7
+
+
+
 # Palindrome Number
 # Problem:
 # Check whether N is palindrome.
@@ -243,6 +307,8 @@
 # Input: 121
 # Output:
 # True
+
+
 # Perfect Number
 # Problem:
 # Check whether N is perfect (sum of proper divisors equals number).
@@ -254,6 +320,9 @@
 # Input: 6
 # Output:
 # True
+
+
+
 # Strong Number
 # Problem:
 # Check if N is Strong number (sum of factorial of digits equals number).
@@ -265,6 +334,8 @@
 # Input: 145
 # Output:
 # True
+
+
 # Pyramid Pattern
 # Problem:
 # Given an integer N, print a centered pyramid of stars.
@@ -276,6 +347,9 @@
 #  *****
 # *******
 # ​
+
+
+
 # Reverse Pyramid
 # Problem:
 # Given an integer N, print an inverted centered pyramid.
@@ -287,6 +361,9 @@
 #   ***
 #    *
 # ​
+
+
+
 # Number Palindrome Pattern
 # Problem:
 # Given an integer N, print a number palindrome pyramid.
@@ -298,6 +375,10 @@
 #  12321
 # 1234321
 # ​
+
+
+
+
 # Hollow Pyramid Pattern
 # Problem:
 # Print a hollow pyramid of height N.
@@ -309,6 +390,10 @@
 #  *   *
 # *******
 # ​
+
+
+
+
 # Right-Aligned Increasing Pattern
 # Problem:
 # Print a right-aligned increasing star pattern.
@@ -320,6 +405,10 @@
 #  ***
 # ****
 # ​
+
+
+
+
 # Diamond Pattern
 # Problem:
 # Print a diamond pattern of height N.
@@ -334,3 +423,160 @@
 #   ***
 #    *
 # ​
+
+
+# Print numbers from 1 to 10 using for loop.
+# Print numbers from 10 to 1 using for loop.
+# Print even numbers from 1 to 20.
+# Print odd numbers from 1 to 20.
+# Take a number from user and print its table.
+
+# Example:
+
+# 2 x 1 = 2
+# 2 x 2 = 4
+# Find sum of numbers from 1 to 100.
+# Find factorial of a number.
+
+# Example:
+
+# 5! = 5 x 4 x 3 x 2 x 1
+# Count how many digits are in a number.
+# Reverse a number using loop.
+
+# Example:
+
+# 1234 → 4321
+# Print square of numbers from 1 to 10.
+# Print cube of numbers from 1 to 10.
+# Print all characters of a string using for loop.
+
+# Example:
+
+# Name = "Python"
+# P
+# y
+# t
+# h
+# o
+# n
+# Find sum of all even numbers between 1 to N.
+# Print star pattern.
+
+# Example:
+
+# *
+# **
+# ***
+# ****
+# *****
+# Print this pattern using nested for loop.
+# 1
+# 12
+# 123
+# 1234
+# 12345
+
+# Bonus Practice:
+
+# Find prime numbers between 1 to 50.
+# Find largest number in a list using loop.
+# Count vowels in a string.
+# Print Fibonacci series.
+
+# Example:
+
+# 0 1 1 2 3 5 8
+# Print multiplication tables from 1 to 5 using nested loop.
+
+
+
+
+
+# hard level qustions:
+
+
+# Print all prime numbers between 1 to 100 using for loop.
+# Check whether a number is Armstrong number or not.
+# Example:
+# 153 = 1³ + 5³ + 3³
+# Find all factors of a number.
+# Print Fibonacci series up to N terms.
+# Find HCF (Highest Common Factor) of two numbers using loop.
+# Find LCM (Lowest Common Multiple) using loop.
+# Reverse a number and check palindrome.
+# 121 → Palindrome
+# 123 → Not palindrome
+# Print this pattern:
+# *****
+# ****
+# ***
+# **
+# *
+# Print pyramid pattern:
+#     *
+#    ***
+#   *****
+#  *******
+
+# Count frequency of each character in a string.
+# hello
+# h = 1
+# e = 1
+# l = 2
+# o = 1
+# Find second largest number in a list using loop.
+# Check whether a number is perfect number or not.
+
+# Example:
+# 6 = 1 + 2 + 3
+# Print multiplication table from 1 to 10 using nested for loop.
+# Find sum of series:
+# 1² + 2² + 3² + ... + n²
+# Print Pascal Triangle using nested for loop.
+
+#       1
+#      1 1
+#     1 2 1
+#    1 3 3 1
+        #   qustion start
+
+# Print Numbers from 1 to N
+# Problem:
+# Given an integer N, print numbers from 1 to N using a for loop.
+# Input:
+# An integer N.
+# Output:
+# Numbers from 1 to N (space separated).
+# Example:
+# Input: 5
+# Output:
+# 1 2 3 4 5
+
+
+
+# n = int(input("ENTER NUMBER:"))
+# for i in range(1, n+1):
+#     print(i, end="")
+
+# 2.
+# Sum of First N Numbers
+# Problem:
+# Given N, compute the sum of numbers from 1 to N.
+# Input:
+# Integer N.
+# Output:
+# Single integer representing the sum.
+# Example:
+# Input: 5
+# Output:
+# 15
+
+# n = int(input("eNTER NUMBER:"))
+# SUM = 0
+# for i in range(1, n+1):
+#     SUM = SUM + i
+# print(SUM)
+# 
+# 
+#

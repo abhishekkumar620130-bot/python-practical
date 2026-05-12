@@ -1475,5 +1475,65 @@
 #     print("Always active")
 # else:
 #     print("invalid type")
+29. Take order amount and location.
+    
+#     If amount > 1000:
+    
+#     If location == "local":
+    
+#     Free delivery
+    
+#     Else:
+    
+#     Delivery charge applied
+    
+#     Else:
+    
+#     No free delivery
 
+# order_amount = float(input("Enter order amount:"))
+# location = input("Enter location (local/non-local)")
+# if order_amount > 1000:
+#     if location == "local":
+#         print("Free delivery")
+#     else:
+#         print("Delivery charge applied")
+# else:
+#     print("No free delivery")
+
+# 30. Take performance rating and experience.
+    
+#     If rating >= 4:
+    
+#     If experience >= 5:
+    
+#     Promotion + Bonus
+    
+#     Else:
+    
+#     Bonus only
+    
+#     Else:
+    
+#     If rating >= 3:
+    
+#     No promotion
+    
+#     Else:
+    
+#     Performance improvement required
+
+# rating = float(input("Enter performance rating(1-5)"))
+# experience = int(input("Enter years of experience"))
+# if  rating >= 4:
+#     if experience >= 5:
+#         print("promotion + bonus")
+#     else:
+#         print("bonus only")
+# elif rating >= 3:
+#     print("no promotion")
+# else:
+#     print("performance improvement required")
+
+#
 
