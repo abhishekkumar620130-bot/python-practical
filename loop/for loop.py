@@ -697,5 +697,11 @@
 # Count Vowels
 # Problem:
 # Given a string S, count number of vowels.
-
+# Input:
+# String S.
+# Output:
+# Integer count.
+# Example:
+# Input: hello
+# Output:
 
