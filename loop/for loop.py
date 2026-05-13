@@ -687,4 +687,15 @@
 # Input: 123
 # Output:
 # 6
+# n = int(input("Enter number:"))
+# sum = 0
+# for digit in str(n):
+#     sum = sum + int(digit)
+# print("sum",sum)
+
+#  9.
+# Count Vowels
+# Problem:
+# Given a string S, count number of vowels.
+
 
