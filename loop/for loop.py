@@ -73,15 +73,15 @@
 # Input: 5
 # Output:
 # 5 4 3 2 1
+
+
+6.
 # Square Series
 # Problem:
 # Print squares of numbers from 1 to N.
 # Input:
 # Integer N.
 # Output:
-
-
-# 6.
 # Sequence of squares.
 # Example:
 # Input: 4
@@ -578,5 +578,86 @@
 #     SUM = SUM + i
 # print(SUM)
 # 
+#  3.
+# Multiplication Table
+# Problem:
+# Given an integer N, print its multiplication table up to 10.
+# Input:
+# Integer N.
+# Output:
+# N x 1 = …
+# …
+# N x 10 = …
+# Example:
+# Input: 3
+# Output:
+# 3 x 1 = 3
+# 3 x 2 = 6
+# ...
+# 3 x 10 = 30
+
+# n = int(input("Enter number:"))
+# for i in range(1, 11):
+#     print(f"{n} x {i} = {n*i}")
+
+# 4.
 # 
-#
+# Count Even Numbers
+# Problem:
+# Given N, count how many even numbers exist between 1 and N.
+# Input:
+# Integer N.
+# Output:
+# Count of even numbers.
+# Example:
+# Input: 10
+# Output:
+# 5
+
+# n = int(input("Enter number:"))
+# count = 0
+# for i in range (1, n+1):
+#     if i%2 == 0:
+#         count = count + 1
+#         print("count")
+
+# 5.
+# Reverse Counting
+# Problem:
+# Print numbers from N down to 1.
+# Input:
+# Integer N.
+# Output:
+# N to 1.
+# Example:
+# Input: 5
+# Output:
+# 5 4 3 2 1
+
+
+# r = int(input("Enter number:"))
+# for i in range(r, 0,-1):
+#     print(i, end="") 
+
+# n = int(input("Enter number:"))
+# for i in range(n,0,-1):
+#     print(i, end="")
+# 6.
+#Sequence of squares.
+# Example:
+# Input: 4
+# Output:
+# 1 4 9 16
+
+# n = int(input("Enter number:"))
+# for i in range(1, n+1):
+#     print(i**2, end="")
+
+# y = int(input("ENter number:"))
+# for i in range(1, y+1):
+#     print(i**3, end="")
+
+
+
+
+# 
