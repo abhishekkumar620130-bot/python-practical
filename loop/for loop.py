@@ -75,7 +75,7 @@
 # 5 4 3 2 1
 
 
-6.
+# 6.
 # Square Series
 # Problem:
 # Print squares of numbers from 1 to N.
@@ -656,6 +656,55 @@
 # y = int(input("ENter number:"))
 # for i in range(1, y+1):
 #     print(i**3, end="")
+
+7.
+#  Count Digits
+# Problem:
+# Given an integer N, count how many digits it contains.
+# Input:
+# Integer N.
+# Output:
+# Digit count.
+# Example:
+# Input: 12345
+# Output:
+# 5
+# n = int(input("ENter number:"))
+# count = 0
+# for i  in range (1, n+1):
+#    count = count+ 1
+#    print(count)
+
+#  8.
+# Sum of Digits
+# Problem:
+# Given N, find sum of its digits.
+# Input:
+# Integer N.
+# Output:
+# Sum of digits.
+# Example:
+# Input: 123
+# Output:
+# 6
+
+# n = int(input("Enter number:"))
+# sum = 0
+# for digit in str(n):
+#     sum = sum + int(digit)
+# print("sum",sum)
+
+#  9.
+# Count Vowels
+# Problem:
+# Given a string S, count number of vowels.
+# Input:
+# String S.
+# Output:
+# Integer count.
+# Example:
+# Input: hello
+# Output:
 
 
 
