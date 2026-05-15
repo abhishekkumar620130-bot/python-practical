@@ -133,7 +133,7 @@
 
 
 
-
+# 10
 # Factorial
 # Problem:
 # Compute factorial of N using loop.
@@ -147,7 +147,7 @@
 # 120
 
 
-
+# 11.
 # MEDIUM LEVEL (11–20)
 # Reverse a Number
 # Problem:
@@ -163,7 +163,7 @@
 
 
 
-
+# 12.
 # Fibonacci Series
 # Problem:
 # Print first N Fibonacci numbers.
@@ -177,7 +177,7 @@
 # 0 1 1 2 3
 
 
-
+# 13.
 # Prime Check
 # Problem:
 # Determine if N is prime.
@@ -193,7 +193,7 @@
 
 
 
-
+# 14
 
 # Print All Factors
 # Problem:
@@ -208,6 +208,7 @@
 # 1 2 3 6
 
 
+# 15
 
 # Largest Digit
 # Problem:
@@ -717,3 +718,21 @@
 
 
 
+# 10
+# Factorial
+# Problem:
+# Compute factorial of N using loop.
+# Input:
+# Integer N.
+# # Output:
+# Factorial value.
+# Example:
+# Input: 5
+# Output:
+# 120
+
+n  = int(inpiut("Enter number:"))
+factorial = 1
+for i in range(1, n+1):
+        factorial = factorial * i
+        print("factorial", factorial)
