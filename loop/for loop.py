@@ -704,4 +704,15 @@
 # Example:
 # Input: hello
 # Output:
+# 2
+
+s = input("Enter string:")
+vowels = "aeiouAEIOU"
+count = 0
+for char in s:
+    if char in vowels:
+        count = count + 1
+        print("count", count) 
+
+
 
