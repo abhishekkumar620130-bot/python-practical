@@ -731,8 +731,27 @@
 # Output:
 # 120
 
-n  = int(inpiut("Enter number:"))
-factorial = 1
-for i in range(1, n+1):
-        factorial = factorial * i
-        print("factorial", factorial)
+# n  = int(inpiut("Enter number:"))
+# factorial = 1
+# for i in range(1, n+1):
+#         factorial = factorial * i
+#         print("factorial", factorial)
+
+
+
+# 11.
+# MEDIUM LEVEL (11–20)
+
+
+
+# Reverse a Number
+# Problem:
+# Reverse digits of integer N.
+# Input:
+# Integer N.
+# Output:
+# Reversed number.
+# Example:
+# Input: 123
+# Output:
+# 321
