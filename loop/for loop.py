@@ -756,6 +756,19 @@
 # Output:
 # 321
 
-n = input("Enter a number:")
-for i in range(len(n)-1, -1, -1):
-    print(n[i], end = "")
+# n = input("Enter a number:")
+# for i in range(len(n)-1, -1, -1):
+#     print(n[i], end = "")
+
+# 12.
+# Fibonacci Series
+# Problem:
+# Print first N Fibonacci numbers.
+# Input:
+# Integer N.
+# Output:
+# Sequence.
+# Example:
+# Input: 5
+# Output:
+# 0 1 1 2 3
