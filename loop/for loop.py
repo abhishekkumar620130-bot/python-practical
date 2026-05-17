@@ -755,3 +755,7 @@
 # Input: 123
 # Output:
 # 321
+
+n = input("Enter a number:")
+for i in range(len(n)-1, -1, -1):
+    print(n[i], end = "")
