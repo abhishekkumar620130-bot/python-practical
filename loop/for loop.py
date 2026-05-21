@@ -783,3 +783,15 @@
 #     b = c
 
 
+# 13.
+# Prime Check
+# Problem:
+# Determine if N is prime.
+# Input:
+# Integer N.
+# Output:
+# True or False.
+# Example:
+# Input: 7
+# Output:
+# True
