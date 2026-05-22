@@ -804,3 +804,17 @@
 #             prime = False
 #             break
 # print(prime)
+
+# 14
+
+# Print All Factors
+# Problem:
+# Print all factors of N.
+# Input:
+# Integer N.
+# Output:
+# Factors in ascending order.
+# Example:
+# Input: 6
+# Output:
+# 1 2 3 6
