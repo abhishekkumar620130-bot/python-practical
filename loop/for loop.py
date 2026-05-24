@@ -862,3 +862,11 @@
 # True
 # Count Uppercase and Lowercase
 
+n = int(input("Enter number:"))
+armstrong = 0 
+for digit in str(n):
+    armstrong = armstrong + int(digit)**3
+    if armstrong == n:
+        print("true")
+    else:
+        print("false")
