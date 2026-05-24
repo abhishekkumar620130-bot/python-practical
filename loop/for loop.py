@@ -840,20 +840,12 @@
 # Output:
 # 8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# N = INPUT("Enter number:")
+# largest = 0
+# for digit in N:
+#     if int(digit)> largest:
+#         largest = int(digit)
+# print("largest", largest)
 
 # 16.
 
