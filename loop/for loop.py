@@ -222,7 +222,7 @@
 # Output:
 # 8
 
-
+# 16.
 
 # Armstrong Number
 # Problem:
@@ -238,7 +238,7 @@
 # Count Uppercase and Lowercase
 
 
-
+# 17
 # Problem:
 # Given string S, count uppercase and lowercase characters.
 # Input:
@@ -839,3 +839,34 @@
 # Input: 5482
 # Output:
 # 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 16.
+
+# Armstrong Number
+# Problem:
+# Check whether N is an Armstrong number (3-digit).
+# Input:
+# Integer N.
+# Output:
+# True or False.
+# Example:
+# Input: 153
+# Output:
+# True
+# Count Uppercase and Lowercase
+
