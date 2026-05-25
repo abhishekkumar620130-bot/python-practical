@@ -244,6 +244,14 @@
 # Input:
 # String S.
 # Output:
+
+
+# 18
+# Problem:
+# Given string S, count uppercase and lowercase characters.
+# Input:
+# String S.
+# Output:
 # Two integers.
 # Example:
 # Input: PyThOn
@@ -251,11 +259,17 @@
 # Uppercase: 3
 # Lowercase: 3
 # Sum of Even and Odd Separately
+
+# 19
+
 # Problem:
 # Given N, compute sum of even and odd numbers from 1 to N separately.
 # Input:
 # Integer N.
 # Output:
+
+
+
 # Two integers.
 # Example:
 # Input: 5
@@ -862,11 +876,28 @@
 # True
 # Count Uppercase and Lowercase
 
-n = int(input("Enter number:"))
-armstrong = 0 
-for digit in str(n):
-    armstrong = armstrong + int(digit)**3
-    if armstrong == n:
-        print("true")
-    else:
-        print("false")
+# n = int(input("Enter number:"))
+# armstrong = 0 
+# for digit in str(n):
+#     armstrong = armstrong + int(digit)**3
+#     if armstrong == n:
+#         print("true")
+#     else:
+        # print("false")
+
+# 17
+        # Problem:
+# Given string S, count uppercase and lowercase characters.
+# Input:
+# String S.
+# Output:
+# Two integers.
+# Example:
+# Input: PyThOn
+# Output:
+# Uppercase: 3
+# Lowercase: 3
+# Sum of Even and Odd Separately
+
+
+
