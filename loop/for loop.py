@@ -899,5 +899,14 @@
 # Lowercase: 3
 # Sum of Even and Odd Separately
 
-
+# n = input("Enter string:")
+# uppercase_count = 0
+# lowercase_count = 0
+# for char in n:
+#     if char.isupper():
+#         uppercase_count = uppercase_count + 1
+#     elif char.islower():
+#         lowercase_count = lowercase_count + 1
+# print("Uppercase:", uppercase_count)
+# print("Lowercase:", lowercase_count)
 
