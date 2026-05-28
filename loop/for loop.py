@@ -910,3 +910,18 @@
 # print("Uppercase:", uppercase_count)
 # print("Lowercase:", lowercase_count)
 
+# 18.
+
+# 18
+# Problem:
+# Given string S, count uppercase and lowercase characters.
+# Input:
+# String S.
+# Output:
+# Two integers.
+# Example:
+# Input: PyThOn
+# Output:
+# Uppercase: 3
+# Lowercase: 3
+# Sum of Even and Odd Separately
