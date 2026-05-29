@@ -925,3 +925,17 @@
 # Uppercase: 3
 # Lowercase: 3
 # Sum of Even and Odd Separately
+
+s = input("Enter string: ")
+
+upper = 0
+lower = 0
+
+for ch in s:
+    if ch.isupper():
+        upper = upper + 1
+    elif ch.islower():
+        lower = lower + 1
+
+print("Uppercase:", upper)
+print("Lowercase:", lower)
