@@ -277,6 +277,10 @@
 # Even: 6
 # Odd: 9
 # Pattern Printing – Increasing Stars
+
+
+
+
 # Problem:
 # Print pattern:
 # Input: 4
@@ -939,3 +943,19 @@
 
 # print("Uppercase:", upper)]]
 # print("Lowercase:", lower)
+
+
+# 20
+# Problem:
+# Print pattern:
+# Input: 4
+# Output:
+# *
+# **
+# Pattern – Number Triangle
+# Input: 4
+# Output:
+# 1
+# 12
+# 123
+# 1234
