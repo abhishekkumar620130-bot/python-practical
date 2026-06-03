@@ -970,8 +970,31 @@
 
 # Question: Print table of a number.
 
-n = int(input("Enter number:"))
+# n = int(input("Enter number:"))
 
-for i in range(1,11):
-    print(n,"x",i,"=",n*i)
-    
+# for i in range(1,11):
+#     print(n,"x",i,"=",n*i)
+
+
+
+
+
+Print numbers from 1 to 20 using a for loop.
+Print numbers from 20 to 1 in reverse order.
+Print all even numbers from 1 to 50.
+Print all odd numbers from 1 to 50.
+Find the sum of numbers from 1 to N.
+Find the sum of even numbers from 1 to N.
+Find the sum of odd numbers from 1 to N.
+Print the multiplication table of a given number.
+Print the square of numbers from 1 to 10.
+Print the cube of numbers from 1 to 10.
+Medium Questions
+Find the factorial of a number.
+Count the number of digits in a number.
+Check whether a number is prime or not.
+Print all factors of a number.
+Find the largest factor of a number.
+Reverse a number using a loop.
+Find the sum of digits of a number.
+Print all prime numbers between 1 and N.
