@@ -1011,6 +1011,17 @@
 #     print(i)
 
 # 24 Print all even numbers from 1 to 50
-for i in range(1, 51):
-    if i % 2 == 0:
-        print(i)
+# for i in range(1, 51):
+#     if i % 2 == 0:
+#         print(i)
+
+
+# 25 Find the sum of odd numbers from 1 to N.
+# for i in range(1,51):
+#     if i % 2 ==  1:
+#         print(i)
+
+# 26 Print the multiplication table of a given number.
+n = int(input("Enter number:"))
+for i in range(1,11):
+    print(n*i)
