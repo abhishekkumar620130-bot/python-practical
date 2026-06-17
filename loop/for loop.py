@@ -1001,3 +1001,7 @@
 # Reverse a number using a loop.
 # Find the sum of digits of a number.
 # Print all prime numbers between 1 and N.
+
+# 22 Print numbers from 1 to 20 using a for loop.
+# for i in range(1,20):
+#     print(i)
