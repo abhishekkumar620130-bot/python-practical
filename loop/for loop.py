@@ -1005,3 +1005,7 @@
 # 22 Print numbers from 1 to 20 using a for loop.
 # for i in range(1,20):
 #     print(i)
+
+# 23 Print numbers from 20 to 1 in reverse order.
+for i in range(20, 0 ,-1):
+    print(i)
