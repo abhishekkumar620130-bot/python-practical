@@ -1028,6 +1028,10 @@
 
 
 
-# Print the square of numbers from 1 to 10.
+#  27 Print the square of numbers from 1 to 10.
+# for i in range(1,11):
+#     print(i**2)
+
+# 28 Print the cube of numbers from 1 to 10.
 for i in range(1,11):
-    print(i**2)
+    print(i**3)
