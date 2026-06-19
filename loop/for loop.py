@@ -1033,5 +1033,8 @@
 #     print(i**2)
 
 # 28 Print the cube of numbers from 1 to 10.
-for i in range(1,11):
-    print(i**3)
+# for i in range(1,11):
+#     print(i**3)
+
+# 29 Find the factorial of a number.
+n= int(input("Enter number:"))
